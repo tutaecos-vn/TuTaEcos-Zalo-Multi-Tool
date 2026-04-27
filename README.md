@@ -11,7 +11,7 @@ Tinh thần mở, xây dựng code vì cộng đồng nên mong các bạn xây 
 
 ## 📂 Các file trong Tool (Included Files)
 * `TUTAECOS - ZALO MULTI-TOOL.bat`: File dùng để tạo và mở hàng loạt ứng dụng Zalo PC.
-* `TUTAECOS - ZALO CLONE UNINSTALLER.bat`: File dùng để dọn dẹp và xóa các bản Zalo clone khi không còn sử dụng. *(Lưu ý: Thay thế bằng tên file thật của bạn)*
+* `TUTAECOS - ZALO CLONE UNINSTALLER.bat`: File dùng để dọn dẹp và xóa các bản Zalo clone khi không còn sử dụng.
 
 ## 🚀 Hướng dẫn sử dụng (How to Use)
 
