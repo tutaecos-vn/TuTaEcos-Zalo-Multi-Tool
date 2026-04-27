@@ -17,7 +17,7 @@ Tinh thần mở, xây dựng code vì cộng đồng nên mong các bạn xây 
 
 **1. Để tạo nhiều Zalo (To create instances):**
 * Tải file `.bat` về máy tính.
-* Click chuột phải vào file `TUTAECOS - ZALO MULTI-TOOL.bat` và chọn **Run as administrator**.
+* Click chuột phải vào file `TUTAECOS - ZALO MULTI-TOOL.bat` và khởi chạy chương trình.
 * Tận hưởng việc mở hàng loạt Zalo PC chỉ với vài thao tác!
 
 **2. Để xóa các Zalo clone (To delete instances):**
